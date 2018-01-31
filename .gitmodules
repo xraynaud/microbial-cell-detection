@@ -1,0 +1,3 @@
+[submodule "svg2psp"]
+	path = svg2psp
+	url = https://github.com/xraynaud/svg2psp
