@@ -1,0 +1,39 @@
+{
+  "creators": [
+    {
+      "affiliation": "Division of Microbial Ecology, Department of Microbiology and Ecosystem Science, Research Network ‘Chemistry Meets Microbiology’, University of Vienna, Vienna, Austria",
+      "name": "Schmidt, Hannes",
+    },
+    {
+      "affiliation": "Sorbonne Université, CNRS, IRD, INRA, P7, UPEC, Institute of Ecology and Environmental Sciences - Paris, Paris, France",
+      "name": "Nunan, Naoise",
+    },
+    {
+      "affiliation": "Division of Microbial Ecology, Department of Microbiology and Ecosystem Science, Research Network ‘Chemistry Meets Microbiology’, University of Vienna, Vienna, Austria",
+      "name": "Höck, Alexander",
+    },
+    {
+      "affiliation": "Faculty 2 Biology/Chemistry, University of Bremen, Bremen, Germany",
+      "name": "Thilo Eickhorst",
+    },
+    {
+      "affiliation": " Terrestrial Ecosystem Research, Department of Microbiology and Ecosystem Science, Research Network ‘Chemistry Meets Microbiology’, University of Vienna, Vienna, Austria",
+      "name": "Christina Kaiser",
+    },
+    {
+    "affiliation": "Division of Microbial Ecology, Department of Microbiology and Ecosystem Science, Research Network ‘Chemistry Meets Microbiology’, University of Vienna, Vienna, Austria",
+      "name": "Dagmar Woebken",
+    },
+    {
+      "affiliation": "Sorbonne Université, CNRS, IRD, INRA, P7, UPEC, Institute of Ecology and Environmental Sciences - Paris, Paris, France",
+      "name": "Raynaud, Xavier",
+    }
+  ],
+  "keywords": [
+    "imaging",
+    "workflow",
+    "imagej"
+  ],
+  "license": "Apache-2.0",
+  "upload_type": "software"
+}
