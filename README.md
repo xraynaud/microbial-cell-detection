@@ -1,1 +1,1 @@
-Fiji and R codes to extract microbial cell distribution as described in Schmidt et al paper. 
+Fiji and R codes to extract microbial cell distribution as described in Schmidt, H., Nunan, N., Höck, A., Eickhorst, T., Kaiser, C., Woebken, D., Raynaud, X., 2018. Recognizing patterns: spatial analysis of observed microbial colonization on root surfaces. Frontiers in Environmental Science 6. https://doi.org/10.3389/fenvs.2018.00061
