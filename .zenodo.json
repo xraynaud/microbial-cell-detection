@@ -1,39 +1,61 @@
 {
-  "creators": [
-    {
-      "affiliation": "Division of Microbial Ecology, Department of Microbiology and Ecosystem Science, Research Network ‘Chemistry Meets Microbiology’, University of Vienna, Vienna, Austria",
-      "name": "Schmidt, Hannes",
-    },
-    {
-      "affiliation": "Sorbonne Université, CNRS, IRD, INRA, P7, UPEC, Institute of Ecology and Environmental Sciences - Paris, Paris, France",
-      "name": "Nunan, Naoise",
-    },
-    {
-      "affiliation": "Division of Microbial Ecology, Department of Microbiology and Ecosystem Science, Research Network ‘Chemistry Meets Microbiology’, University of Vienna, Vienna, Austria",
-      "name": "Höck, Alexander",
-    },
-    {
-      "affiliation": "Faculty 2 Biology/Chemistry, University of Bremen, Bremen, Germany",
-      "name": "Eickhorst, Thilo",
-    },
-    {
-      "affiliation": " Terrestrial Ecosystem Research, Department of Microbiology and Ecosystem Science, Research Network ‘Chemistry Meets Microbiology’, University of Vienna, Vienna, Austria",
-      "name": "Kaiser, Christina",
-    },
-    {
-    "affiliation": "Division of Microbial Ecology, Department of Microbiology and Ecosystem Science, Research Network ‘Chemistry Meets Microbiology’, University of Vienna, Vienna, Austria",
-      "name": "Woebken, Dagmar",
-    },
-    {
-      "affiliation": "Sorbonne Université, CNRS, IRD, INRA, P7, UPEC, Institute of Ecology and Environmental Sciences - Paris, Paris, France",
-      "name": "Raynaud, Xavier",
-    }
-  ],
-  "keywords": [
-    "imaging",
-    "workflow",
-    "imagej"
-  ],
-  "license": "Apache-2.0",
-  "upload_type": "software"
+    "description": "Fiji and R codes to extract microbial cell distribution as described in Schmidt, H., Nunan, N., Höck, A., Eickhorst, T., Kaiser, C., Woebken, D., Raynaud, X., 2018. Recognizing patterns: spatial analysis of observed microbial colonization on root surfaces. Frontiers in Environmental Science 6. https://doi.org/10.3389/fenvs.2018.00061\">https://doi.org/10.3389/fenvs.2018.00061", 
+    "license": "other-open", 
+    "title": "xraynaud/microbial-cell-detection: release 1.0", 
+    "version": "1.0", 
+    "upload_type": "software", 
+    "keywords": [
+        "imaging", 
+        "image analysis"
+    ], 
+    "publication_date": "2018-12-19", 
+    "creators": [
+        {
+            "affiliation": "Division of Microbial Ecology, Department of Microbiology and Ecosystem Science, Research Network 'Chemistry Meets Microbiology', University of Vienna, Vienna, Austria", 
+            "name": "Schmidt, Hannes"
+        }, 
+        {
+            "affiliation": "Sorbonne Université, CNRS, IRD, INRA, P7, UPEC, Institute of Ecology and Environmental Sciences - Paris, Paris, France", 
+            "name": "Nunan, Naoise"
+        }, 
+        {
+            "affiliation": "Division of Microbial Ecology, Department of Microbiology and Ecosystem Science, Research Network 'Chemistry Meets Microbiology', University of Vienna, Vienna, Austria", 
+            "name": "Höck, Alexander"
+        }, 
+        {
+            "affiliation": "Faculty 2 Biology/Chemistry, University of Bremen, Bremen, Germany", 
+            "name": "Eickhorst, Thilo"
+        }, 
+        {
+            "affiliation": "Terrestrial Ecosystem Research, Department of Microbiology and Ecosystem Science, Research Network 'Chemistry Meets Microbiology', University of Vienna, Vienna, Austria", 
+            "name": "Kaiser, Christina"
+        }, 
+        {
+            "affiliation": "Division of Microbial Ecology, Department of Microbiology and Ecosystem Science, Research Network 'Chemistry Meets Microbiology', University of Vienna, Vienna, Austria", 
+            "name": "Woebken, Dagmar"
+        }, 
+        {
+            "orcid": "0000-0002-9065-2867", 
+            "affiliation": "Sorbonne Université, CNRS, IRD, INRA, P7, UPEC, Institute of Ecology and Environmental Sciences - Paris, Paris, France", 
+            "name": "Xavier Raynaud"
+        }
+    ], 
+    "access_right": "open", 
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/xraynaud/microbial-cell-detection/tree/1.0", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.3389/fenvs.2018.00061", 
+            "relation": "isDocumentedBy"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5281/zenodo.2414183", 
+            "relation": "isVersionOf"
+        }
+    ]
 }
